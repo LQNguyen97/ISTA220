@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise03\Exercise03\bin\Debug\Exercise03.exe.config
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise03\Exercise03\bin\Debug\Exercise03.exe
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise03\Exercise03\bin\Debug\Exercise03.pdb
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise03\Exercise03\obj\Debug\Exercise03.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise03\Exercise03\obj\Debug\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise03\Exercise03\obj\Debug\Exercise03.exe
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise03\Exercise03\obj\Debug\Exercise03.pdb

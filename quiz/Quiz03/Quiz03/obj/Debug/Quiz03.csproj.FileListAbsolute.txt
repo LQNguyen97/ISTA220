@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA220\quiz\Quiz03\Quiz03\bin\Debug\Quiz03.exe.config
+C:\Users\nguye\quantico06\ISTA220\quiz\Quiz03\Quiz03\bin\Debug\Quiz03.exe
+C:\Users\nguye\quantico06\ISTA220\quiz\Quiz03\Quiz03\bin\Debug\Quiz03.pdb
+C:\Users\nguye\quantico06\ISTA220\quiz\Quiz03\Quiz03\obj\Debug\Quiz03.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA220\quiz\Quiz03\Quiz03\obj\Debug\Quiz03.exe
+C:\Users\nguye\quantico06\ISTA220\quiz\Quiz03\Quiz03\obj\Debug\Quiz03.pdb
+C:\Users\nguye\quantico06\ISTA220\quiz\Quiz03\Quiz03\obj\Debug\Quiz03.csprojAssemblyReference.cache

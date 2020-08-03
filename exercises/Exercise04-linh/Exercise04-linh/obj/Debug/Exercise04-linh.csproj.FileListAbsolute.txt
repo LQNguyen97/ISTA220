@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise04-linh\Exercise04-linh\bin\Debug\Exercise04-linh.exe.config
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise04-linh\Exercise04-linh\bin\Debug\Exercise04-linh.exe
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise04-linh\Exercise04-linh\bin\Debug\Exercise04-linh.pdb
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise04-linh\Exercise04-linh\obj\Debug\Exercise04-linh.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise04-linh\Exercise04-linh\obj\Debug\Exercise04-linh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise04-linh\Exercise04-linh\obj\Debug\Exercise04-linh.exe
+C:\Users\nguye\quantico06\ISTA220\exercises\Exercise04-linh\Exercise04-linh\obj\Debug\Exercise04-linh.pdb

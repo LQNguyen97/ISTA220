@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA220\labs\Programming Exercise 01\Programming Exercise 01\bin\Debug\Programming Exercise 01.exe.config
+C:\Users\nguye\quantico06\ISTA220\labs\Programming Exercise 01\Programming Exercise 01\bin\Debug\Programming Exercise 01.exe
+C:\Users\nguye\quantico06\ISTA220\labs\Programming Exercise 01\Programming Exercise 01\bin\Debug\Programming Exercise 01.pdb
+C:\Users\nguye\quantico06\ISTA220\labs\Programming Exercise 01\Programming Exercise 01\obj\Debug\Programming Exercise 01.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA220\labs\Programming Exercise 01\Programming Exercise 01\obj\Debug\Programming Exercise 01.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA220\labs\Programming Exercise 01\Programming Exercise 01\obj\Debug\Programming Exercise 01.exe
+C:\Users\nguye\quantico06\ISTA220\labs\Programming Exercise 01\Programming Exercise 01\obj\Debug\Programming Exercise 01.pdb

@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA220\labs\QUIZ02\QUIZ02\obj\Debug\QUIZ02.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA220\labs\QUIZ02\QUIZ02\obj\Debug\QUIZ02.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA220\labs\QUIZ02\QUIZ02\bin\Debug\QUIZ02.exe.config
+C:\Users\nguye\quantico06\ISTA220\labs\QUIZ02\QUIZ02\bin\Debug\QUIZ02.exe
+C:\Users\nguye\quantico06\ISTA220\labs\QUIZ02\QUIZ02\bin\Debug\QUIZ02.pdb
+C:\Users\nguye\quantico06\ISTA220\labs\QUIZ02\QUIZ02\obj\Debug\QUIZ02.exe
+C:\Users\nguye\quantico06\ISTA220\labs\QUIZ02\QUIZ02\obj\Debug\QUIZ02.pdb

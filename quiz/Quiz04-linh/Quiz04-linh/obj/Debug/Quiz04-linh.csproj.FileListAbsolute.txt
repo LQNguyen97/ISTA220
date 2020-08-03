@@ -1,0 +1,7 @@
+C:\Users\nguye\source\repos\Quiz04-linh\Quiz04-linh\bin\Debug\Quiz04-linh.exe.config
+C:\Users\nguye\source\repos\Quiz04-linh\Quiz04-linh\bin\Debug\Quiz04-linh.exe
+C:\Users\nguye\source\repos\Quiz04-linh\Quiz04-linh\bin\Debug\Quiz04-linh.pdb
+C:\Users\nguye\source\repos\Quiz04-linh\Quiz04-linh\obj\Debug\Quiz04-linh.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\Quiz04-linh\Quiz04-linh\obj\Debug\Quiz04-linh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Quiz04-linh\Quiz04-linh\obj\Debug\Quiz04-linh.exe
+C:\Users\nguye\source\repos\Quiz04-linh\Quiz04-linh\obj\Debug\Quiz04-linh.pdb

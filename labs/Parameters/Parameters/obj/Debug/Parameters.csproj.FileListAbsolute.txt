@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA220\labs\Parameters\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\nguye\quantico06\ISTA220\labs\Parameters\Parameters\bin\Debug\Parameters.exe
+C:\Users\nguye\quantico06\ISTA220\labs\Parameters\Parameters\bin\Debug\Parameters.pdb
+C:\Users\nguye\quantico06\ISTA220\labs\Parameters\Parameters\obj\Debug\Parameters.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA220\labs\Parameters\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA220\labs\Parameters\Parameters\obj\Debug\Parameters.exe
+C:\Users\nguye\quantico06\ISTA220\labs\Parameters\Parameters\obj\Debug\Parameters.pdb
