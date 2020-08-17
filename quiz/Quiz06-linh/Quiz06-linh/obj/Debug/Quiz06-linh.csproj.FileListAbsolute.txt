@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA_220\quiz\Quiz06-linh\Quiz06-linh\bin\Debug\Quiz06-linh.exe.config
+C:\Users\nguye\quantico06\ISTA_220\quiz\Quiz06-linh\Quiz06-linh\bin\Debug\Quiz06-linh.exe
+C:\Users\nguye\quantico06\ISTA_220\quiz\Quiz06-linh\Quiz06-linh\bin\Debug\Quiz06-linh.pdb
+C:\Users\nguye\quantico06\ISTA_220\quiz\Quiz06-linh\Quiz06-linh\obj\Debug\Quiz06-linh.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA_220\quiz\Quiz06-linh\Quiz06-linh\obj\Debug\Quiz06-linh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA_220\quiz\Quiz06-linh\Quiz06-linh\obj\Debug\Quiz06-linh.exe
+C:\Users\nguye\quantico06\ISTA_220\quiz\Quiz06-linh\Quiz06-linh\obj\Debug\Quiz06-linh.pdb
