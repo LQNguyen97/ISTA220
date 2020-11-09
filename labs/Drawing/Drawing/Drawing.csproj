@@ -104,6 +104,7 @@
       <DependentUpon>DrawingPad.xaml</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
+    <Compile Include="DrawingShape.cs" />
     <Compile Include="IColor.cs" />
     <Compile Include="IDraw.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

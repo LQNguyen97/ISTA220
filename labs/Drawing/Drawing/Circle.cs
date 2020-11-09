@@ -10,44 +10,26 @@ using Windows.UI.Xaml.Controls;
 
 namespace Drawing
 {
-    class Circle : IDraw, IColor
+    class Circle : DrawingShape, IDraw, IColor
     {
-        private int diameter;
-        private int locX = 0;
-        private int locY = 0;
         private Ellipse circle = null;
-        public Circle(int d)
+        public Circle(int d) : base(d)
         {
-            diameter = d;
+            
         }
-
-        void IDraw.Draw(Canvas canvas)
+        public override void Draw(Canvas canvas)
         {
-            if (circle != null)
-                canvas.Children.Remove(circle);
-            else
-                circle = new Ellipse();
-
-            circle.Height = diameter;
-            circle.Width = diameter;
-            Canvas.SetTop(circle, locY);
-            Canvas.SetLeft(circle, locX);
-            canvas.Children.Add(circle);
-        }
-
-        void IColor.SetColor(Color color)
-        {
-            if (this.circle != null)
+            if (shape != null)
             {
-                SolidColorBrush brush = new SolidColorBrush(color);
-                this.circle.Fill = brush;
+                canvas.Children.Remove(this.shape);
             }
+            else
+            {
+                shape = new Ellipse();
+            }
+
+            base.Draw(canvas);
         }
 
-        void IDraw.SetLocation(int xCoord, int yCoord)
-        {
-            locX = xCoord;
-            locY = yCoord;
-        }
     }
 }

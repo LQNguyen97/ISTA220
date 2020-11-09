@@ -10,44 +10,24 @@ using Windows.UI.Xaml.Controls;
 
 namespace Drawing
 {
-    class Square : IDraw, IColor
+    class Square : DrawingShape, IDraw, IColor
     {
-        private int sideLength;
-        private int locX = 0;
-        private int locY = 0;
         private Rectangle rect = null;
-        public Square(int sl)
+        public Square(int sl) : base(sl)
         {
-            sideLength = sl;
+            
         }
-
-        void IDraw.Draw(Canvas canvas)
+        public override void Draw(Canvas canvas)
         {
-            if (rect != null)
-                canvas.Children.Remove(rect);
-            else
-                rect = new Rectangle();
-
-            rect.Height = sideLength;
-            rect.Width = sideLength;
-            Canvas.SetTop(rect, locY);
-            Canvas.SetLeft(rect, locX);
-            canvas.Children.Add(rect);
-        }
-
-        void IColor.SetColor(Color color)
-        {
-            if (rect != null)
+            if (shape != null)
             {
-                SolidColorBrush brush = new SolidColorBrush(color);
-                rect.Fill = brush;
+                canvas.Children.Remove(shape);
             }
-        }
-
-        void IDraw.SetLocation(int xCoord, int yCoord)
-        {
-            locX = xCoord;
-            locY = yCoord;
+            else
+            {
+                shape = new Rectangle();
+            }
+            base.Draw(canvas);
         }
     }
 }
